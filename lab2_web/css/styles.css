@@ -1,0 +1,56 @@
+.mem {
+    display: flex;
+    justify-content: center;
+}
+
+.container_block{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.outer_block{
+    width: 200px;
+    height: 100px;
+    background-color:cyan;
+    display: flex;
+    justify-content: center;
+    border: solid chocolate;
+}
+
+.inner_block{
+    margin-top: 15px;
+    padding: 10px;
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    text-align: center;
+}
+
+#text_block{
+    color: white;
+}
+
+.name{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.my_table{
+    display: flex;
+    justify-content: center;
+}
+
+.table_head{
+    background-color: rgb(15, 72, 15);
+    color: rgb(232, 230, 230);
+}
+
+.table_body{
+    background-color: gray;
+    color: rgb(205, 205, 205);
+}
+
+.gratitude{
+    text-align: center;
+}
